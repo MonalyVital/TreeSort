@@ -1,0 +1,8 @@
+package arquivoordena;
+
+public class No {
+
+	public int item;
+	public No dir;
+	public No esq;
+}
